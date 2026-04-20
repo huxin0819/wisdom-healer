@@ -50,7 +50,7 @@
 
 ```bash
 # 克隆到 Cursor 个人 skills 目录
-git clone https://github.com/huxin0819/wisdom-healer.git ~/.cursor/skills/wisdom-healer
+git clone https://github.com/sisXin/wisdom-healer.git ~/.cursor/skills/wisdom-healer
 ```
 
 重启 Cursor 后即可生效。
@@ -59,7 +59,7 @@ git clone https://github.com/huxin0819/wisdom-healer.git ~/.cursor/skills/wisdom
 
 ```bash
 # 克隆到项目的 .cursor/skills 目录
-git clone https://github.com/huxin0819/wisdom-healer.git .cursor/skills/wisdom-healer
+git clone https://github.com/sisXin/wisdom-healer.git .cursor/skills/wisdom-healer
 ```
 
 ---
