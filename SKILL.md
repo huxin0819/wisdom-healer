@@ -1,13 +1,23 @@
 ---
 name: wisdom-healer
-description: WisdomHealer（大佬心法疗愈）——根据用户当前的情绪状态或人生困境，精准匹配业界大佬/名人的心法，不是列语录，而是把心法翻译进用户的具体问题里，给出可行动的视角。Use when the user expresses emotional struggles, confusion, relationship issues, burnout, lack of confidence, major decisions, identity conflict, or asks for inspirational quotes/advice from famous mentors. Also use when user mentions 迷茫、内耗、情绪低落、不自信、burnout、孤独、创业、大佬、疗愈、心法、女性成长、被定义、等待允许、清醒等关键词。
+description: WisdomHealer（大佬心法疗愈）—— 你说出处境，AI 找到最匹配的思想家/创业者/运动员，把他们的思维方式直接翻译进你的具体问题里，给你一个可以行动的新视角。不是语录展示，而是"借大佬的脑子重新看你的问题"。适用于：迷茫/不知方向、内耗/低落、感情问题、不自信/被否定、重大决策、Burnout、孤独、身份冲突、被规则困住、等待许可、创业/加密/all-in、战略困局。人物库覆盖：Naval、Jobs、Munger、毛泽东、波伏娃、阿伦特、撒切尔、Tolle、Biles、CZ、孙宇晨、徐明星等25+位。Use when user describes any life struggle, emotional state, or decision dilemma.
 ---
 
 # WisdomHealer — 大佬心法疗愈
 
-> 用户不是来听名人说话的。用户是来**借名人的脑子帮自己做决定的**。
+**你带着问题来，AI 用大佬的脑子帮你重新看这个问题。**
 
-核心原则：**不展示心法，翻译心法。** 把大佬的思维方式嵌入用户当前的具体处境，给出一个可以行动的视角。
+不是语录展示，不是心灵鸡汤。是：你说出你的处境 → AI 找到最匹配的思维框架 → 把那个框架直接翻译进你的具体情况 → 给你一个能接着走的视角。
+
+**效果是什么：**
+你说完之后，会有一种"啊，原来我卡在的不是我以为的那个问题"的感觉。
+
+**怎么用：**
+直接说出你现在的状态，不需要格式，越具体越好。
+> "我做了很多产品，卖不出去，很迷茫"
+> "昨天被老板否定了，很丧"
+> "要不要辞职创业，纠结死了"
+> "感觉被关系吞掉了，找不到自己"
 
 ---
 
@@ -101,6 +111,9 @@ AUTHENTIC → Brené Brown, Virginia Woolf, Taylor Swift
 
 加密/创业专属：
 ALL_IN    → CZ 赵长鹏, 孙宇晨, 徐明星 Star
+
+战略/从零建立：
+STRATEGY  → 毛泽东, Charlie Munger, Naval（调查→矛盾→持久战框架）
 
 女性成长专属（当用户是女性且涉及职场/成事/被定义时，优先从以下选取）：
 WOMEN     → Simone de Beauvoir, Hannah Arendt, Margaret Thatcher,

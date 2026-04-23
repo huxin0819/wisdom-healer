@@ -751,10 +751,28 @@
 ---
 
 ## Simone de Beauvoir（西蒙娜·德·波伏娃）
-**标签**：哲学家 / 存在主义作家 / 《第二性》作者
-**适用场景**：`TRAPPED` `IDENTITY` `LOST`
-**心法核心**：女人不是天生的，是被塑造的——所以你可以反向塑造自己
+**标签**：哲学家 / 存在主义作家 / 清醒女性先驱
+**适用场景**：`TRAPPED` `IDENTITY` `LOST` `AUTHENTIC`
+**心法核心**：你不是被定义的那个版本——存在先于本质，你可以反向塑造自己
 **风格**：🧊 冷静理性 + 解构束缚
+
+### 核心著作与思想
+
+**《第二性》Le Deuxième Sexe（1949）**
+波伏娃最重要的作品。核心论点：女性不是生来如此，而是被社会、文化、关系一点点"塑造"成"第二性"的。"他者"（The Other）是强加给女性的身份，不是本质。
+→ 对应场景：任何感觉"我应该这样""女生就是这样"的时刻
+
+**《模糊性的道德》The Ethics of Ambiguity（1947）**
+我们无法逃脱处境，但可以在处境中选择。自由不是没有约束，而是在约束中仍然做出真实的选择。不要因为"条件不够好"而拒绝承担自己的选择。
+→ 对应场景：等待条件成熟才开始、推卸选择责任
+
+**《端方女儿回忆录》Memoirs of a Dutiful Daughter（1958）**
+波伏娃的自传，记录她如何一步步从"乖女儿"走向独立哲学家。她的家庭期待她嫁人，她选择了萨特和写作。
+→ 对应场景：家庭/社会期待与个人选择的冲突
+
+**《她来而又去》She Came to Stay（1943）**
+探讨自我与他人的边界——你是否因为某段关系而失去了自己的位置？
+→ 对应场景：被关系吞噬、失去自我
 
 ### 语录
 
@@ -765,19 +783,36 @@
 2. "I am too intelligent, too demanding, and too resourceful for anyone to be able to take charge of me entirely."
    —— 我太聪明、要求太高、太有能力，没有人能完全掌控我。
 
-3. "Change your life today. Don't gamble on the future, act now, without delay."
+3. "To be oneself, one must first know oneself."
+   —— 要做自己，首先要认识自己。
+
+4. "One's life has value so long as one attributes value to the life of others."
+   —— 只要你还在赋予他人的生命以价值，你自己的生命就有意义。
+   📍 来源：《暮年》
+
+5. "Change your life today. Don't gamble on the future, act now, without delay."
    —— 今天就改变你的生活。不要把赌注押在未来，现在就行动，不要拖延。
+
+6. "Representation of the world, like the world itself, is the work of men; they describe it from their own point of view, which they confuse with absolute truth."
+   —— 对世界的描述，和世界本身一样，是男人的作品；他们从自己的视角描述它，并将这个视角误认为绝对真理。
+   📍 来源：《第二性》
 
 ### 翻译心法模板
 
-> 你现在纠结的，不是能力问题。而是你还在按"别人为女性设定的路径"做选择。波伏娃会问你：**如果你不是"女性"这个角色，只是一个人，这个决定还会犹豫吗？**
+> 你现在纠结的，不是能力问题，而是你还在按"别人为你设定的路径"做选择。波伏娃会问你：**把所有"我应该""女生应该""你这个年纪应该"拿掉，只剩下你自己——这个决定还会犹豫吗？**
+>
+> 她不会告诉你选哪条路，但她会告诉你：你不是被塑造出来的那个版本，你可以重新定义自己是谁。
 
 ### 视频链接
 
 - 🎬 **Simone de Beauvoir: The Second Sex — BBC Documentary**
   → https://www.youtube.com/watch?v=TXeIyjB3rXQ
-- 🎬 **波伏娃：女性主义哲学核心思想解读**
+- 🎬 **Simone de Beauvoir: An Introduction to Her Life and Philosophy**
+  → https://www.youtube.com/watch?v=A1M3yJaM_7U
+- 🎬 **波伏娃《第二性》核心思想完整解读（中文）**
   → https://www.bilibili.com/video/BV1vZ4y1T7bL
+- 🎬 **The Ethics of Ambiguity — Explained**
+  → https://www.youtube.com/watch?v=U0EDRM_P3kI
 
 ---
 
@@ -1068,6 +1103,95 @@
 
 ---
 
+---
+
+## 毛泽东
+**标签**：战略家 / 思想家 / 从一无所有建立新世界的人
+**适用场景**：`LOST` `DECIDE` `RISE` `BURN` `DOUBT`
+**心法核心**：没有调查就没有发言权；在矛盾中找突破口；星星之火，可以燎原
+**风格**：🔥 强势唤醒 + 🧊 战略冷静
+
+### 核心著作与思想
+
+**《实践论》（1937）**
+理论必须从实践中来，再回到实践中去检验。所有停留在脑子里的判断，不经过实地调查都是空谈。
+→ 对应场景：凭感觉做产品/决策、分析过度但不行动
+
+**《矛盾论》（1937）**
+任何复杂局面中都有一个"主要矛盾"。找到它，集中力量解决它，其他问题会跟着松动。
+→ 对应场景：多个问题缠绕、不知道从哪里下手
+
+**《论持久战》（1938）**
+不要期待速胜，也不要悲观投降。在敌强我弱时，最优策略是设计一场你能撑下去的长期战。
+→ 对应场景：短期看不到结果、想放弃、急于求成
+
+**《星星之火，可以燎原》（1930）**
+写于革命最低谷时期。核心：现在的微小力量，只要方向对，就能点燃整片原野。不要因为现在小，就否定未来的可能性。
+→ 对应场景：刚起步、资源少、被人看不起
+
+**群众路线**
+"从群众中来，到群众中去。"答案永远在用户/市场里，不在你的书桌前。
+→ 对应场景：产品找不到方向、不知道市场要什么
+
+### 语录
+
+1. "没有调查，就没有发言权。"
+   —— No investigation, no right to speak.
+   📍 来源：《反对本本主义》，1930
+
+2. "星星之火，可以燎原。"
+   —— A single spark can start a prairie fire.
+   📍 来源：《星星之火，可以燎原》，1930
+
+3. "一万年太久，只争朝夕。"
+   —— Ten thousand years is too long; seize the day, seize the hour.
+   📍 来源：《满江红·和郭沫若同志》，1963
+
+4. "世界是你们的，也是我们的，但是归根结底是你们的。你们青年人朝气蓬勃，正在兴旺时期，好像早晨八九点钟的太阳。希望寄托在你们身上。"
+   📍 来源：毛泽东接见苏联留学生，1957
+
+5. "下定决心，不怕牺牲，排除万难，去争取胜利。"
+   📍 来源：《愚公移山》，1945
+
+6. "虚心使人进步，骄傲使人落后。"
+   📍 来源：《中国人民站起来了》，1949
+
+7. "从群众中来，到群众中去。"
+   —— From the masses, to the masses.
+   📍 来源：《关于领导方法的若干问题》，1943
+
+8. "在战略上藐视敌人，在战术上重视敌人。"
+   —— Despise the enemy strategically, but take him seriously tactically.
+   📍 来源：多次讲话
+
+9. "凡事预则立，不预则废。"（引自《礼记》，毛泽东多次引用）
+   —— With preparation you will succeed; without it, you will fail.
+
+### 翻译心法模板
+
+**LOST / 产品找不到方向：**
+> 毛泽东会说："没有调查就没有发言权。"你做了多少次真正的用户调查？你去过他们的生活场景里坐下来看他们怎么用你的产品吗？**答案不在你的脑子里，在用户那里。**
+
+**DECIDE / 面对复杂局面：**
+> 矛盾论的核心：现在这堆问题里，哪一个是"主要矛盾"？解决了它，其他问题会跟着松动。**先不要想全部，只问：这个阶段最关键的一个问题是什么？**
+
+**RISE / 从零起步：**
+> 1927年，革命军只剩几百人，毛泽东写下《星星之火，可以燎原》。**你现在的小，不代表你的方向是错的。问题是：你的火种是真的，还是在自我安慰？**
+
+**BURN / 撑不下去：**
+> 《论持久战》写于敌强我弱时。他没有说"冲"，也没有说"退"，他说：**设计一场你能撑下去的长期战。你现在的节奏，是你能打三年的节奏吗？**
+
+### 资料来源
+
+- 🔗 **毛泽东选集全卷（完整版）**
+  → https://www.marxists.org/chinese/maozedong/index.htm
+- 🎬 **《实践论》《矛盾论》精讲（中文）**
+  → https://www.bilibili.com/video/BV1YJ411x7oW
+- 🎬 **毛泽东思想与现代创业战略**
+  → https://www.bilibili.com/video/BV1xK4y1z7Aq
+
+---
+
 ## 快速索引表
 
 | 困境 | 第一推荐 | 第二推荐 | 第三推荐 |
@@ -1085,3 +1209,4 @@
 | 🚫 被规则/期待困住 | Simone de Beauvoir | Hannah Arendt | Margaret Thatcher |
 | 🔑 等待被允许/不敢强势 | Nicki Minaj | Margaret Thatcher | Whitney Wolfe Herd |
 | 🪞 自我否定/完美主义 | Brené Brown | Virginia Woolf | Taylor Swift |
+| ⚔️ 战略/从零建立/持久战 | 毛泽东 | CZ 赵长鹏 | Elon Musk |
